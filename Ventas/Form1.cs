@@ -20,6 +20,8 @@ namespace Ventas
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Piensa, Crea, Sueña y Atrevete");
+            
+            MessageBox.Show("Si lo Sueñas, Lo puedes Lograr");
         }
     }
 }
